@@ -49,5 +49,8 @@ h6{
 }
 .btn-outline-danger{
   color: #FF9910
-  
+
+}
+.drink{
+  float: left;
 }
