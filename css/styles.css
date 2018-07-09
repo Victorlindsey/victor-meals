@@ -40,6 +40,7 @@ ul{
 .lorem{
   float: left;
   font-size: 25px;
+  margin-top: 30px;
 }
 h5{
   font-size: 30px;
@@ -51,6 +52,6 @@ h6{
   color: #FF9910
 
 }
-.drink{
-  float: left;
+.drinks{
+  margin-top: 30px;
 }
