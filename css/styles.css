@@ -55,3 +55,8 @@ h6{
 .drinks{
   margin-top: 30px;
 }
+.foodimages{
+  text-align: center;
+  margin-left: 150px;
+  background-image: url("/home/victor/Downloads/foodsBg.jpg");
+}
