@@ -13,7 +13,19 @@
 
 
 .row::after {
-  content: "";
+  content: normal;
   clear: both;
   display: table;
+  float: right;
+  width: 400px;
+}
+.lorem{
+  float: left;
+  font-size: 25px;
+}
+h5{
+  font-size: 30px;
+}
+h6{
+  font-size: 28px;
 }
