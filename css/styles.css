@@ -4,7 +4,25 @@
 .center{
   text-align: center;
 }
+ul{
+  list-style-type: none;
 
+}
+.text1{
+  padding: 3em;
+
+}
+.text1:hover{
+  background-color: orange;
+
+}
+
+.text2{
+  padding: 3em;
+}
+.text2:Hover{
+  background-color: orange;
+}
 .column {
   float: left;
   width: 25%;
